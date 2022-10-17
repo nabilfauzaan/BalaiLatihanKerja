@@ -1,0 +1,91 @@
+.h1{
+    margin-bottom: 70%;
+}
+
+.navbar-brand{
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+.nav-link{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+
+.navbar-nav li a:hover{
+    color: red;
+    transition: all .2s ease-in-out;
+}
+
+
+h3{
+    font-size: 50px;
+    padding-top: 5%;
+}
+
+
+
+.table{
+    width: 50%;
+    margin-left: 25%;
+}
+
+
+.link a{
+    font-size: 20px;
+}
+.link a:hover{
+    color: red;
+    transition: all .2s ease-in-out;
+}
+.total{
+    font-size: 30px;
+    margin-left: 70%;
+}
+.total-siswa{
+    font-size: 30px;
+    margin-left: 46%;
+}
+
+
+.link{
+    font-size: 20px;
+}
+.link-nilai{
+    font-size: 20px;
+}
+.link-nilai a{
+    font-size: 20px;
+}
+
+
+.edit a{
+    color: white;
+}
+
+
+
+.kolom-daftar{
+    margin-left: 40%;
+}
+.place{
+    width: 16%;
+}
+
+
+.kolom-edit{
+    margin-left: 40%;
+}
+.kolom-tambah{
+    margin-left: 40%;
+}
+
+
+.btn-daftar{
+    margin-left: 8%;
+}
+.btn-edit{
+    margin-left: 8%;
+}
